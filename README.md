@@ -90,7 +90,7 @@ if __name__ == "__main__":
  health_monitoring_agent.monitor_health()
  ```
   <h3>Output:</h3>
-  <img width="1257" height="495" alt="image" src="https://github.com/user-attachments/assets/440e9c87-c843-4169-8a54-5eaca1b90ddf" />
+<img width="616" height="207" alt="image" src="https://github.com/user-attachments/assets/b1f36228-544a-4f20-b2f4-34295db11f01" />
 
   <h3>Result:</h3>
   The PEAS description for given AI problem and develop AI agent is verified.
